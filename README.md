@@ -54,6 +54,7 @@ you can check out my **personal links** below
 - [Vampfully](https://github.com/Vampfully/Vampfully) 
   - `🟢`
 
+![Want to see a secret?](https://media.tenor.co/videos/4a53f722bf63aa8454f7d6804e534e3a/mp4)
 <!--
 Here are some ideas to get you started:
 
