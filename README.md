@@ -1,60 +1,21 @@
-# I caught you in 4k LOL anyways
-i'm ryon, 13, css and lua programmer, anime weeb, and a professional procrastinator
-you can check out my **personal links** below
+Vacu 
+------------ 
+![image](https://user-images.githubusercontent.com/72931279/112764585-31223c80-8fd7-11eb-9c8b-df138e72e019.png)
 
-# personal links
-- Profile - [Vampfully](https://github.com/lightfill)
-- Company/Organization - [Vamppets](https://github.com/Vamppets)
-- Twitter - [lightfill](https://twitter.com/Ryonfill)
-- Discord - `lightfill#3571`
+Links
+------------ 
+- [GitHub](https://github.com/Vacuitys)
+- [Twitter](https://twitter.com/Ryonfill)
+- [Discord](https://github.com/discord) - `Vacu#3571`
 
-# interests
-- watching anime
-- programming
+Organizations
+------------ 
+- [Vacudons](https://github.com/Vacudons)
 
-# languages
-- Lua
-- CSS
+Repos
+------------
+Too lazy to link them all here, most of my repos are on my [organization](https:/github.com/Vacudons)
 
-# key
-- 🟢 - Public
-- 🟠 - Archived/Discontinued
-- 🔴 - Private
-- ⚪ - Postponed
-
-# repos
-- [Wildberry - Codeblock Theme](https://github.com/Vamppets/Wildberry-Codeblock-Theme) 
-  - `🟢`
-- [Frosted Glass - Codeblock Theme](https://github.com/Vamppets/Frosted-Glass-Codeblock-Theme)
-  - `🟢`
-- [Chroma Syntax Highlighting](https://github.com/Vamppets/Chroma-Syntax-Highlighting)
-  - `🟢`
-- [Light Codeblocks](https://github.com/Vamppets/Light-Codeblocks)
-  - `🟢`
-- [Blur Member List](https://github.com/Vamppets/BlurMemberList)
-  - `🟢`
-- [Chroma Folders](https://github.com/Vamppets/Chroma-Folders)
-  - `🟢`
-- [Dark Channels And Unread Bar](https://github.com/Vamppets/Dark-Channels-And-Unread-Bar)
-  - `🟢`
-- [Blur Folders](https://github.com/Vamppets/BlurFolders)
-  - `🟢`
-- [DiscordAddons](https://github.com/Vamppets/info)
-  - `🟢`
-- [Chromacord](https://github.com/Vamppets/Chromacord)
-  - `🟢 and 🟠`
-- [ChromaSlate](https://github.com/Vamppets/ChromaSlate)
-  - `🔴 and ⚪`
-- [iyplugins](https://github.com/Vampfully/iyplugins)
-  - `🔴 and 🟠`
-- [LuaS](https://github.com/Vampfully/LuaS)
-  - `🔴 and 🟠`
-- [BDSnips](https://github.com/Vampfully/BDSnips)
-  - `🟠`
-- [Vampfully](https://github.com/Vampfully/Vampfully) 
-  - `🟢`
-
-![Want to see a secret?](https://media.tenor.co/videos/4a53f722bf63aa8454f7d6804e534e3a/mp4)
 <!--
 Here are some ideas to get you started:
 
