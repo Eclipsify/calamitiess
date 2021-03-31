@@ -2,9 +2,9 @@ Just a 13 year old programmer who enjoys coding stupid [Discord](https://github.
 
 Links
 ------------ 
-- [Nightfrights' GitHub](https://github.com/Nightfrights)
-- [Nightfrights' Twtter](https://twitter.com/Nightgazingg)
-- [Nightfrights' Discord Server](https://discord.gg/5hqReEDFJp)
+- [Ryonfill's GitHub](https://github.com/Ryonfill)
+- [Ryonfill's Twtter](https://twitter.com/Ryonfill)
+- [Ryonfill's Discord Server](https://discord.gg/5hqReEDFJp)
 
 Organizations
 ------------ 
