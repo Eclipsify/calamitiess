@@ -3,9 +3,9 @@
 
 Links
 ------------ 
-- [GitHub](https://github.com/Nightfrights)
-- [Twitter](https://twitter.com/Nightgazingg)
-- [Discord](https://github.com/discord) - `Nightfrights#3571`
+- [Nightfrights' GitHub](https://github.com/Nightfrights)
+- [Nightfrights' Twtter](https://twitter.com/Nightgazingg)
+- [Nightfrights' Discord Server](https://discord.gg/5hqReEDFJp)
 
 Organizations
 ------------ 
