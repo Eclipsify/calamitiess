@@ -10,9 +10,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![copywheeI’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=vlostcity&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![copywheeI’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=copywheeI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![copywheeI’s statistics.](https://github-readme-stats.vercel.app/api?username=vlostcity&show_icons=true&theme=radical&hide_border=true)
+![copywheeI’s statistics.](https://github-readme-stats.vercel.app/api?username=copywheeI&show_icons=true&theme=radical&hide_border=true)
 </details>
 
 - repo inspired by [teidesu's.](https://github.com/teidesu)
