@@ -1,6 +1,14 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
+<h2 align="center">🎨 Discord theme developer</h3>
+
+<p align="center">
+  <img width="430" height="220" src="https://lanyard-profile-readme.vercel.app/api/556120718669119499">
+</p>
+
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
 
 <!-- content | content
+
+<a href="https://discord.com/users/556120718669119499"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/556120718669119499"/></a>
 
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
